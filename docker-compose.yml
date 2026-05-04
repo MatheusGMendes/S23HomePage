@@ -1,8 +1,8 @@
 services:
-  s23ultra-homepage:
-    container_name: homePage
+  homepage:
     image: ghcr.io/matheusgmendes/s23homepage:latest
     build: .
-    ports:
-      - "807:80"
+    container_name: s23-homepage
     restart: unless-stopped
+    ports:
+      - "8080:80"
