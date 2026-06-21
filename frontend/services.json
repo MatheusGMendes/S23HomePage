@@ -1,9 +1,11 @@
 [
-  { "name": "Photos",                            "type": "url",  "value": "https://photos.s23ultra.com/" },
-  { "name": "Tools",                             "type": "url",  "value": "https://tools.s23ultra.com/" },
-  { "name": "linktree de pobre",                 "type": "url",  "value": "https://pblinktree.s23ultra.com/" },
-  { "name": "Editor",                            "type": "url",  "value": "https://editor.s23ultra.com/" },
-  { "name": "Home Assistant",                    "type": "url",  "value": "https://assistant.s23ultra.com/" },
-  { "name": "Minecraft Server - Vanilla 1.21.4", "type": "copy", "value": "s23ultra.com" },
-  { "name": "Status Page",                       "type": "url",  "value": "https://status.s23ultra.com/status/services" }
+  { "name": "Photos",             "type": "url", "value": "https://photos.s23ultra.com/" },
+  { "name": "Tools",              "type": "url", "value": "https://tools.s23ultra.com/" },
+  { "name": "only free linktree", "type": "url", "value": "https://pblinktree.s23ultra.com/" },
+  { "name": "Editor",             "type": "url", "value": "https://editor.s23ultra.com/" },
+  { "name": "Home Assistant",     "type": "url", "value": "https://assistant.s23ultra.com/" },
+  { "name": "MC Manager",         "type": "url", "value": "https://mcmanager.s23ultra.com/" },
+  { "name": "QR Code",            "type": "url", "value": "https://qr.s23ultra.com/" },
+  { "name": "Decor Light",        "type": "url", "value": "https://decorlight.s23ultra.com/" },
+  { "name": "Status Page",        "type": "url", "value": "https://status.s23ultra.com/status/services" }
 ]
