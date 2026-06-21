@@ -1,7 +1,7 @@
 [
   { "name": "Photos",             "type": "url", "value": "https://photos.s23ultra.com/" },
   { "name": "Tools",              "type": "url", "value": "https://tools.s23ultra.com/" },
-  { "name": "only free linktree", "type": "url", "value": "https://pblinktree.s23ultra.com/" },
+  { "name": "free linktree", "type": "url", "value": "https://pblinktree.s23ultra.com/" },
   { "name": "Editor",             "type": "url", "value": "https://editor.s23ultra.com/" },
   { "name": "Home Assistant",     "type": "url", "value": "https://assistant.s23ultra.com/" },
   { "name": "MC Manager",         "type": "url", "value": "https://mcmanager.s23ultra.com/" },
