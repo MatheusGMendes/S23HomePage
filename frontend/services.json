@@ -1,11 +1,10 @@
 [
   { "name": "Photos",             "type": "url", "value": "https://photos.s23ultra.com/" },
   { "name": "Tools",              "type": "url", "value": "https://tools.s23ultra.com/" },
-  { "name": "free linktree", "type": "url", "value": "https://pblinktree.s23ultra.com/" },
+  { "name": "Free Linktree", "type": "url", "value": "https://pblinktree.s23ultra.com/" },
   { "name": "Editor",             "type": "url", "value": "https://editor.s23ultra.com/" },
   { "name": "Home Assistant",     "type": "url", "value": "https://assistant.s23ultra.com/" },
   { "name": "MC Manager",         "type": "url", "value": "https://mcmanager.s23ultra.com/" },
   { "name": "QR Code",            "type": "url", "value": "https://qr.s23ultra.com/" },
-  { "name": "Decor Light",        "type": "url", "value": "https://decorlight.s23ultra.com/" },
   { "name": "Status Page",        "type": "url", "value": "https://status.s23ultra.com/status/services" }
 ]
